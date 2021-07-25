@@ -1,4 +1,3 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
 SELECT apr_data.location, sum_new_cases, sum_tot_cases--, sum_new_death, sum_tot_death
 FROM 
 (SELECT TOP (1000)
