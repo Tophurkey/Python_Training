@@ -1,0 +1,1 @@
+'x-rapidapi-key': "cc3351e5bdmsh0fa6523b54b682cp1daf79jsn76f5606b0418",'x-rapidapi-host': "alpha-vantage.p.rapidapi.com"
